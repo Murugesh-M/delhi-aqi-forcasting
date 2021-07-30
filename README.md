@@ -1,1 +1,1 @@
-# delhi-aqi-forcasting
+# Delhi-AQI-Forcasting
